@@ -5,6 +5,7 @@ import Home from './components/shared/Home';
 import Navbar from './components/shared/Navbar';
 import NoMatch from './components/shared/NoMatch';
 import AccountProfile from './components/accounts/AccountProfile';
+
 const App = () => (
   <>
     <Navbar />
